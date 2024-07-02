@@ -1,0 +1,7 @@
+DEBUG:root:This is a debug
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 87fe0312-ffbe-404b-a2be-f8cb4048116f
+DEBUG:Comm:Current comms: []
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: b4d69a6d-5a95-4012-90da-3ffed92ec245
+DEBUG:Comm:Current comms: []
